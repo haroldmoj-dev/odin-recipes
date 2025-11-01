@@ -4,6 +4,7 @@ This project was made while following a course of TheOdinProject. It demonstrate
 - Adding text and images
 - Linking text to another page
 - Linking text to an external website  
+- Basic CSS
 
 The website features three recipes, each having their own page showcasing an image, its ingredients, and its step-by-step instructions:
 - Beef burger
